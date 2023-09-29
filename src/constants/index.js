@@ -1,14 +1,22 @@
 import {
-	backend,
-	creator,
-	web,
-	nodejs,
-	starbucks,
-	tesla,
-	codex,
-	dalle,
-	generator,
+	hcl,
+	quest,
+	css,
+	docker,
+	git,
+	html,
+	javascript,
+	mongodb,
+	reactjs,
+	java,
+	sql,
+	aws,
+	kubernetes,
+	wevote,
+	synchrodoc,
+	unnati,
   } from "../assets";
+  
   
   export const navLinks = [
 	{
@@ -27,47 +35,75 @@ import {
   
   const services = [
 	{
-	  title: "Web Developer",
-	  icon: web,
+	  title: "Java",
+	  icon: java,
 	},
 	{
-	  title: "NodeJS Native Developer",
-	  icon: nodejs,
+	  title: "HTML",
+	  icon: html,
 	},
 	{
-	  title: "Backend Developer",
-	  icon: backend,
+	  title: "CSS",
+	  icon: css,
 	},
 	{
-	  title: "Frontend Developer",
-	  icon: creator,
+		title: "SQL",
+		icon: sql,
+    },
+	{
+	  title: "Docker",
+	  icon: docker,
 	},
+	{
+		title: "MongoDB",
+		icon: mongodb,
+	},
+	{
+		title: "ReactJS",
+		icon: reactjs,
+	},
+	{
+		title: "JavaScript",
+		icon: javascript,
+	},
+	{
+		title: "Kubernetes",
+		icon: kubernetes,
+	},
+	{
+		title: "AWS",
+		icon: aws,
+	},
+	{
+		title: "Git",
+		icon: git,
+	}
   ];
   
   const experiences = [
 	{
+		title: "Software Engineer",
+		company_name: "HCL Tech",
+		icon: hcl,
+		iconBg: "#E6DEDD",
+		date: "Jan 2021 - Present",
+		points: [
+		  "Developed and maintained automated deployment processes.",
+		  "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+		  "Designed and implemented intuitive user interfaces with interactive features.",
+		  "Participating in code reviews and providing constructive feedback to other developers.",
+		],
+	},
+	{
 	  title: "Graduate Trainee Engineer",
 	  company_name: "QuEST Global",
-	  icon: starbucks,
+	  icon: quest,
 	  iconBg: "#383E56",
 	  date: "Nov 2019 - Oct 2020",
 	  points: [
 		"Developing and maintaining web applications using frameworks and other related technologies.",
 		"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
 		"Acquired knowledge of containerization technologies like Docker and Kubernetes, supporting containerized application deployments.",
-		"Participating in code reviews and providing constructive feedback to other developers.",
-	  ],
-	},
-	{
-	  title: "Software Engineer",
-	  company_name: "HCL Tech",
-	  icon: tesla,
-	  iconBg: "#E6DEDD",
-	  date: "Jan 2021 - Present",
-	  points: [
-		"Developed and maintained automated deployment processes.",
-		"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-		"Designed and implemented intuitive user interfaces with interactive features.",
 		"Participating in code reviews and providing constructive feedback to other developers.",
 	  ],
 	},
@@ -93,7 +129,7 @@ import {
 		  color: "pink-text-gradient",
 		},
 	  ],
-	  image: dalle,
+	  image: wevote,
 	  source_code_link: "https://github.com/Manojemjay/We-Vote",
 	},
 	{
@@ -114,7 +150,7 @@ import {
 		  color: "pink-text-gradient",
 		},
 	  ],
-	  image: codex,
+	  image: synchrodoc,
 	  source_code_link: "https://github.com/Manojemjay/SynchroDoc",
 	},
 	{
@@ -135,7 +171,7 @@ import {
 		  color: "pink-text-gradient",
 		},
 	  ],
-	  image: generator,
+	  image: unnati,
 	  source_code_link: "https://github.com/Manojemjay/UnnatiAgroTech-website",
 	},
   ];

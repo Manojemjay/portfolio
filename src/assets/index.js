@@ -1,38 +1,43 @@
-import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.webp";
-import mobile from "./mobile.webp";
-import web from "./web.webp";
 import github from "./github.webp";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
-import nodejs from "./tech/nodejs.webp";
-
-import meta from "./company/meta.webp";
-import shopify from "./company/shopify.webp";
-import starbucks from "./company/starbucks.webp";
-import tesla from "./company/tesla.webp";
-
-import dalle from "./T-shirt.jpg";
-import generator from "./dall-e.jpg";
-import codex from "./codex.webp";
+import logo from "./logo.jpg";
+import hcl from "./company/hcl.webp";
+import quest from "./company/quest.webp";
+import css from "./tech/css.webp";
+import docker from "./tech/docker.webp";
+import git from "./tech/git.webp";
+import html from "./tech/html.webp";
+import javascript from "./tech/javascript.webp";
+import mongodb from "./tech/mongodb.webp";
+import reactjs from "./tech/reactjs.webp";
+import java from "./tech/java.png";
+import sql from "./tech/sql.png";
+import aws from "./tech/aws.png";
+import kubernetes from "./tech/kubernetes.png";
+import wevote from "./we-vote.jpg";
+import synchrodoc from "./synchrodoc.jpg";
+import unnati from "./unnati.jpg";
 
 export {
   logo,
-  generator,
-  backend,
-  creator,
-  mobile,
-  web,
   github,
   menu,
   close,
-  nodejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  dalle,
-  codex
+  quest,
+  hcl,
+  css,
+	docker,
+	git,
+	html,
+	javascript,
+	mongodb,
+	reactjs,
+  java,
+  sql,
+  aws,
+  kubernetes,
+  wevote,
+  synchrodoc,
+  unnati
 };
