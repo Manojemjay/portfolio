@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?label=my-portfolio432.vercel.app&style=for-the-badge&logo=react&logoColor=white&url=https%3A%2F%2Fmy-portfolio432.vercel.app%2F)](https://my-portfolio432.vercel.app/)
 
 [![Stars](https://img.shields.io/github/stars/ElonMusk2002/my-portfolio?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElonMusk2002/my-portfolio/stargazers)
 
@@ -12,9 +11,6 @@
 
 This is my personal portfolio website built using React, Vite, Three.js and other cool libraries!
 
-👉  **[View Live Site](https://my-portfolio432.vercel.app/)**  👈
-
-![screenshot of personal-webp](Portfolio.jpg)
 
 
 ## 🚀 Key Features
