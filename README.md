@@ -3,12 +3,6 @@
 <div align="center">
 
 
-[![Stars](https://img.shields.io/github/stars/ElonMusk2002/my-portfolio?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElonMusk2002/my-portfolio/stargazers)
-
-[![Forks](https://img.shields.io/github/forks/ElonMusk2002/my-portfolio?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElonMusk2002/my-portfolio/network/members)
-
-[![Issues](https://img.shields.io/github/issues/ElonMusk2002/my-portfolio?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElonMusk2002/my-portfolio/issues)
-
 This is my personal portfolio website built using React, Vite, Three.js and other cool libraries!
 
 
@@ -47,7 +41,7 @@ This is my personal portfolio website built using React, Vite, Three.js and othe
 
 1. Clone this repository
    ```
-   git clone https://github.com/ELonMusk2002/my-portfolio.git
+   git clone https://github.com/Manojemjay/portfolio.git
    ```
 2. Install the required dependencies using NPM
    ```
